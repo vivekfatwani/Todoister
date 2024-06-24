@@ -3,6 +3,7 @@
 Todoister is an Android application designed to help you organize and prioritize your tasks effectively. 
 <br>
 It empowers you to manage your workload with the following features:
+<br>
 **Calendar Integration:** Seamlessly view and manage tasks within your calendar, providing a clear picture of your schedule.
 <br>
 **Task Prioritization:** Assign priority levels (high, medium, low) to tasks, enabling you to focus on the most critical ones first.
